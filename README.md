@@ -7,10 +7,10 @@ This repository contains a collection of MIPS assembly language programs for var
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/Circuit-Overtime/assembly_x64.git
+   https://github.com/ez-vivek/Assembly-x64.git
 2. **Fork this Repository**
    ```bash
-   https://github.com/<your-username>/assembly_x64.git
+   https://github.com/<your-username>/assembly-x64.git
 3. **Make Changes**
    ```bash
    cd assembly_x64.git
@@ -18,7 +18,7 @@ This repository contains a collection of MIPS assembly language programs for var
    git commit -m "Adding a test file"
    git push
 4. **Pull Request Approval from GitHub**
-   - make a pull request, or write in issue[https://github.com/Circuit-Overtime/assembly_x64/issues]
+   - make a pull request, or write in issue[https://github.com/ez-vivek/assembly-x64/issues]
    - sync your fork after you make changes
 
 ### Instructions:
